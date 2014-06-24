@@ -25,3 +25,6 @@ typedef NS_ENUM(NSInteger, DrawingOrder) {
 -(void) showScore;
 
 @end
+Character*     character;
+CCPhysicsNode* physicsNode;
+
